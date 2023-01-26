@@ -22,5 +22,8 @@
   "homepage": "https://github.com/xxykzDev/reduxVanilla#readme",
   "devDependencies": {
     "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "redux": "^4.2.0"
   }
 }
