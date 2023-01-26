@@ -1,0 +1,26 @@
+{
+  "name": "01-redux-basic",
+  "version": "1.0.0",
+  "description": "redux on vanilla js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xxykzDev/reduxVanilla.git"
+  },
+  "keywords": [
+    "redux",
+    "vanillaJS"
+  ],
+  "author": "xxykz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxykzDev/reduxVanilla/issues"
+  },
+  "homepage": "https://github.com/xxykzDev/reduxVanilla#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
